@@ -37,5 +37,5 @@ Nous relevons alors chaque numéros comme cela :
 Et nous trouvons alors cette suite binaire : 01 0000 11 00 1101 00 01 1011 00 01 1011 00 00 1100 10 01 0000 01 01 1000 11 01 0101 00 01 1010 01 01 1011 11 01 1011 10 
 Qui une fois converti en asci nous obtenons : C4ll2AcTion
 
-Et alors ce qui nous donne notre flag : OxD{C4ll2AcTion}
+Et alors ce qui nous donne notre flag : 0xD{C4ll2AcTion}
 
